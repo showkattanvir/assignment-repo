@@ -1,8 +1,10 @@
 body{
     margin: 0px;
+    
 }
-section{
+.flex-all{
     display: flex;
+    margin-bottom: 150px;
 }
 .h1class{
     color:orange;
@@ -15,6 +17,10 @@ h1{
     padding: 10px 40px;
     text-align: justify;
 }
+p{
+    font-size: 20px;
+}
+
 .link1{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
@@ -31,6 +37,34 @@ h1{
     width: 80%;
     padding-left: 20px;
 }
-.footer1{
+.para1{
 padding-top: 25px;
+
+}
+.full_baby{
+
+width: 30%;
+padding: 12px;
+margin: 5%;
+border-radius: 20px;
+text-align: justify; 
+
+}
+.pic2{
+    width: 70%;
+}
+.second-h{
+    text-align: center;
+}
+span{
+    color: orangered;
+}
+#misson1{
+    background-color: rgb(204, 226, 226);
+}
+#misson2{
+    background-color: rgb(231, 210, 217);
+}
+#misson3{
+    background-color: rgb(207, 236, 216);
 }
