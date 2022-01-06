@@ -4,7 +4,7 @@ body{
 }
 .flex-all{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 .h1class{
     color:orange;
@@ -67,4 +67,33 @@ span{
 }
 #misson3{
     background-color: rgb(207, 236, 216);
+}
+.third-sec{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+    margin: 10px;
+}
+.pic2{
+    width: 60%;
+    padding-left: 15%;
+}
+.pic2-div{
+    width: 40%;
+}
+.text2div{
+    width: 55%;
+    text-align: justify;
+}
+.pic4{
+    width: 60%;
+    padding-top: 10%;
+    
+}
+.fourth-sec{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 15%;
 }
